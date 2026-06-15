@@ -16,18 +16,10 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Testour%2C%20Tunisia-111827?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" />
-<a href="https://mohamedazizbouthelja.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-aziz-bouthelja-10579b341">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mohamedaziz.bouthelja@etudiant-enit.utm.tn">
-  <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/MohamedAzizBouthelja">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.linkedin.com/in/mohamed-aziz-bouthelja-10579b341"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohamedaziz.bouthelja@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/MohamedAzizBouthelja"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -355,7 +347,7 @@ Participated in a fiber optic installation project, observing field deployment o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedAzizBouthelja&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MohamedAzizBouthelja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Profile Trophies" />
 
 </div>
 
@@ -420,18 +412,10 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:mohamedaziz.bouthelja@etudiant-enit.utm.tn">
-  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-aziz-bouthelja-10579b341">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/MohamedAzizBouthelja">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://mohamedazizbouthelja.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<a href="mailto:mohamedaziz.bouthelja@etudiant-enit.utm.tn"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/mohamed-aziz-bouthelja-10579b341"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/MohamedAzizBouthelja"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio coming soon" />
 
 </div>
 
