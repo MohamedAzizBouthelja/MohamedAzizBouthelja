@@ -97,7 +97,12 @@ I approach engineering with a builder's mindset: clear architecture, measurable 
 
 ### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,grafana,linux,git,github,bash,vscode,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,nginx,grafana,prometheus,linux,git,github,bash,vscode,eclipse,arduino&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Argo%20CD-111827?style=for-the-badge&logo=argo&logoColor=EF7B4D" />
+<img src="https://img.shields.io/badge/Minikube-111827?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 
 </div>
 
