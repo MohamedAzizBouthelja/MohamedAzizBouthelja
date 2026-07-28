@@ -337,12 +337,12 @@ Participated in a fiber optic installation project, observing field deployment o
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedAzizBouthelja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&rank_icon=github" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAzizBouthelja&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=6D28D9&currStreakLabel=A78BFA" />
+<img height="180em" src="https://github-readme-stats-sigma-nine.vercel.app/api?username=MohamedAzizBouthelja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&rank_icon=github" />
+<img height="180em" src="https://streak-stats.demolab.com?user=MohamedAzizBouthelja&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=6D28D9&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAzizBouthelja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
+<img height="210em" src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=MohamedAzizBouthelja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10" />
 
 </div>
 
@@ -352,7 +352,7 @@ Participated in a fiber optic installation project, observing field deployment o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohamedAzizBouthelja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Profile Trophies" />
+<img src="https://github-trophies.vercel.app/?username=MohamedAzizBouthelja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Profile Trophies" />
 
 </div>
 
